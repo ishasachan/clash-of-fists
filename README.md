@@ -1,7 +1,7 @@
 # CLASH OF FISTS 
 ## Overview
 
-The Rock Paper Scissors game is a classic and timeless game enjoyed by people of all ages. This project aims to develop an interactive and real-time multiplayer version of the Rock Paper Scissors game using React and [Socket.io](http://socket.io/). The game will allow players to compete against each other in a virtual environment, testing their skills and luck.
+The Clash Of Fists game is a classic and timeless game enjoyed by people of all ages. This project aims to develop an interactive and real-time multiplayer version of this  game using React and [Socket.io](http://socket.io/). The game will allow players to compete against each other in a virtual environment, testing their skills and luck.
 
 ## Features
 
